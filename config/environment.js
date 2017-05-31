@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'food-blog',
+    modulePrefix: 'bar-blog',
     environment: environment,
     rootURL: '/',
     locationType: 'auto',
